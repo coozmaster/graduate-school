@@ -4,7 +4,7 @@ import numpy as np
 import argparse
 import sys
 import scipy.optimize as scopt
-
+#this is python 3
 def main():
     intro("Compressible Sudden Expansion with Drag")
 
